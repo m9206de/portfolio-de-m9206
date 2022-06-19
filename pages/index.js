@@ -28,7 +28,7 @@ export default function Home() {
 
           <div className={styles.card}>
             <h2>Development &rarr;</h2>
-            <p>I develop websites too, and here's the list. Would love a star on GitHub</p>
+            <p>I develop websites too, and here is the list. Would love a star on GitHub</p>
           </div>
 
           <div
@@ -43,7 +43,7 @@ export default function Home() {
           >
             <h2>Social &rarr;</h2>
             <p>
-              Let's Connect, Do follow and message me first.
+              Let us Connect, Do follow and message me first.
             </p>
           </div>
         </div>
