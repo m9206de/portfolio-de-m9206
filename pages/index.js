@@ -13,7 +13,6 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className='opacity-0'></h1>
         <Image src={BrandLogoDark} width={400} height={400} />
         <h1>Perfecting Pixels & Discovering Dimensions, Enthusiastically.</h1>
       </main>
